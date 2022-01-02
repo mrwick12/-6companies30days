@@ -1,4 +1,4 @@
-question link-https://practice.geeksforgeeks.org/problems/decode-the-string2444/1#
+Question link-https://practice.geeksforgeeks.org/problems/decode-the-string2444/1#
 string helper(string &s,int &index)
     {
         string word="";
