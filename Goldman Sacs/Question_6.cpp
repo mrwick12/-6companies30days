@@ -1,8 +1,4 @@
-Short and clean solution.
-we need to find GCD string of two given strings.
-Here first we check if gcd is even possible using (a + b == b + a)
-a+b == b+a can be true only if both the strings are made of same substring added multiple times.
-For example -
+link-https://leetcode.com/problems/greatest-common-divisor-of-strings/
 a = 'ABABAB'
 b = 'AB'
 
