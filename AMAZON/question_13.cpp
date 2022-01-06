@@ -30,6 +30,5 @@ int orangesRotting(vector<vector<int>>& grid) {
             }
             if(!rotten.empty()) days++;//this is used to check how many days are required to rotten all the oranges
         }
-        
         return tot == cnt ? days : -1;//if the total elements leaving blank space is equal to the elements pushed inside the queue then we can say our all oranges are rottened and we will simply return days otherwise we will return -1..
     }
