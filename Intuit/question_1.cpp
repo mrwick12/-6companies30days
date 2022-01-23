@@ -23,8 +23,6 @@ int minDifference(int arr[], int n)  {
 	            if(dp[n][i]==true and diff>abs(first-second))
 	                diff=abs(first - second);
 	            
-	        }
-	        
-	    
+	        }	    
 	    return diff;
 	}
